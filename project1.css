@@ -162,7 +162,7 @@ section .title::after{
 /* home section styling*/
 .home{
     display: flex;
-    background: url("/hung.jpg.jpg") no-repeat center;
+    background: url("https://scontent.fdad3-4.fna.fbcdn.net/v/t39.30808-6/279739853_108857325150091_7139975442049499867_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_ohc=yT0X5uEr_8QAX_BFpEq&_nc_ht=scontent.fdad3-4.fna&oh=00_AT_K6VpU0YL50G1_iLp31e9qRvxLRJfsqo9YHwujqz8iUQ&oe=62C6FB3B") no-repeat center;
     height: 100vh;
     background-size: cover;
     background-attachment: fixed;
@@ -281,7 +281,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .services .serv-content .card:hover{
-    background: crimson;
+    background:darkblue;
 }
 .services .serv-content .card .box{
     transition: all 0.3s ease;
